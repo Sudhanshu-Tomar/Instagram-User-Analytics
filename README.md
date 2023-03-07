@@ -69,7 +69,7 @@ to the management team in a comprehensive report.
 
 
         
-# Insights 
+# Learning
 
 Learn the fundamentals of SQL, such as count, distinct, max, dayofweek, and dayname functions, as well as joins (inner join, left join, and so on) and CTE (Common 
 table expression ) Discover more about marketing: how to offer incentives to old customers, how to remind 
